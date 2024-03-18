@@ -1,3 +1,0 @@
-print("""One
-      Two
-      Three""")
